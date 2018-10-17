@@ -1,0 +1,6 @@
+D:\VS\Курсовая работа\Лабиринт\ConsoleMaze\ConsoleMaze\bin\Debug\ConsoleMaze.exe.config
+D:\VS\Курсовая работа\Лабиринт\ConsoleMaze\ConsoleMaze\bin\Debug\ConsoleMaze.exe
+D:\VS\Курсовая работа\Лабиринт\ConsoleMaze\ConsoleMaze\bin\Debug\ConsoleMaze.pdb
+D:\VS\Курсовая работа\Лабиринт\ConsoleMaze\ConsoleMaze\obj\Debug\ConsoleMaze.csprojResolveAssemblyReference.cache
+D:\VS\Курсовая работа\Лабиринт\ConsoleMaze\ConsoleMaze\obj\Debug\ConsoleMaze.exe
+D:\VS\Курсовая работа\Лабиринт\ConsoleMaze\ConsoleMaze\obj\Debug\ConsoleMaze.pdb

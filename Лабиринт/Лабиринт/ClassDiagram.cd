@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Лабиринт.Form">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgEQBgBACCAABMAAACEAEQSAIA/AAAAQZAQAAIAgCI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Лабиринт.GenerateMaze">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAGAAAAAAACAAABIIBAAACAAAABAAEAAABA=</HashCode>
+      <FileName>GenerateMaze.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="передаёт" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Лабиринт.SolutionMaze">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAdAACAAABAAAAAAAAAAAgAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>SolutionMaze.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="решает" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
